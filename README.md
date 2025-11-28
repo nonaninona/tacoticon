@@ -9,6 +9,10 @@ Mattermost(매터모스트) 게시글 링크나 ID를 입력하면, 내 계정�
   * **링크 자동 파싱:** 게시글의 `Post ID`뿐만 아니라 `링크(URL)`를 통째로 넣어도 알아서 ID만 추출합니다.
   * **랜덤 셔플:** 매번 이모지 순서를 무작위로 섞어서 기계적인 느낌을 줄입니다.
 
+## 🎞️ 시연영상
+https://github.com/user-attachments/assets/620d6032-9937-4ef0-bb99-2ed933e0f54f
+
+
 -----
 
 ## 🛠 설치 및 준비 (Prerequisites)
