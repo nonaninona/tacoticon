@@ -69,7 +69,7 @@ def main():
                 })
                 print(f"  -> :{emoji}: 성공")
                 success_count += 1
-                time.sleep(0.2) # 너무 빠르면 서버가 놀라니까 살짝 텀
+                time.sleep(0.1) # 너무 빠르면 서버가 놀라니까 살짝 텀
             except Exception as e:
                 # 이미 달린 이모지거나, ID가 틀렸을 때
                 if "Resource not found" in str(e):
