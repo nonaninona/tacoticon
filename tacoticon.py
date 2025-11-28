@@ -10,7 +10,7 @@ SERVER_URL = 'meeting.ssafy.com'
 # [주의] 로그인용 새 토큰을 넣어주세요
 
 # 달고 싶은 이모지 리스트
-EMOJI_LIST = ['taco', 'kkh_clones', 'cute_taco', 'hangyotaco', 'kkh_taco_eat', 'kkh_taco_evolution', 'egen_taco', 'kkh_5taco', 'tacoblin', 'kkh_double', 'kkh_four', 'kkh_eight', 'kkh_seven', 'kkh_six', 'kkh_two', 'kkh_sleep2', 'kkh_sleep', 'kkh_three', 'kkh_positive', 'kkh', 'kkh_smart', 'sensitive_kkh', 'aggro_kkh', 'kkh_pet', 'kkh_yakitori', 'kkh_ani', 'kkh_lurk', 'kkh_zoom', 'kkh_goblin', 'insensitive_taco', 'taco_ddack', 'kyungho11masterintensifies', 'daekyungho', 'kyungho11mastershake']
+EMOJI_LIST = ['taco', 'kkh_clones', 'cute_taco', 'hangyotaco', 'kkh_taco_eat', 'kkh_taco_evolution', 'egen_taco', 'kkh_5taco', 'tacoblin', 'kkh_double', 'kkh_four', 'kkh_eight', 'kkh_seven', 'kkh_six', 'kkh_two', 'kkh_sleep2', 'kkh_sleep', 'kkh_three', 'kkh_positive', 'kkh', 'kkh_smart', 'sensitive_kkh', 'aggro_kkh', 'kkh_pet', 'kkh_yakitori', 'kkh_ani', 'kkh_lurk', 'kkh_zoom', 'kkh_goblin', 'insensitive_taco', 'taco_ddack', 'kyungho11masterintensifies', 'daekyungho', 'kyungho11mastershake', 'taco_what', 'kkh_nine']
 
 # ==========================================
 
